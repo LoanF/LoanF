@@ -1,4 +1,4 @@
-# I'm Loan, a french software developer 🇫🇷
+# I'm Loan, a french software developer
 
 - 🔭 I’m currently working at [Velan SAS](https://www.linkedin.com/showcase/velanfrance/?originalSubdomain=fr)
 - 📚 I'm currently studying at [Lyon Ynov Campus](https://www.ynov.com/campus/lyon)

@@ -4,4 +4,4 @@
 - 📚 I'm currently studying at [Lyon Ynov Campus](https://www.ynov.com/campus/lyon)
 - 💼 Check my portfolio [here](https://loanfrancois.fr)
 - ⚡ About me:  
-  My name is Loan François, I am 21 years old and I have just received a Bachelor 3 in development.. My goal is to complete a two-year Master's in software (.NET) and mobile development.
+  My name is Loan François, I am 23 years old and I have just received a Master 2 in software and mobile development.
